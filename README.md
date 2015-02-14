@@ -22,17 +22,17 @@ Run the code for dynamically generating the html source:
 A browser tab should open, showing the generated site:
 
 ![movie trailer
-site](https://www.dropbox.com/s/q8iy2p6j1k4ggzw/Screenshot%202015-02-14%2017.52.47.png?dl=0)
+site](/images/site.png)
 
 Hover over a movie poster to see a synopsis:
 
 ![movie
-synopsis](https://www.dropbox.com/s/fghjba5fz7a9b6f/Screenshot%202015-02-14%2017.54.43.png?dl=0)
+synopsis](/images/synopsis.png)
 
 Click a movie poster to view the trailer in a popup:
 
 ![movie
-trailer](https://www.dropbox.com/s/z73rj4ltku0pijr/Screenshot%202015-02-14%2017.56.00.png?dl=0)
+trailer](/images/trailer.png)
 
 ### Attribution
 
